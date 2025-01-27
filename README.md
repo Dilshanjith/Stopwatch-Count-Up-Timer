@@ -7,7 +7,7 @@ A simple web application that functions as a stopwatch, allowing users to start,
 - Start, pause, and reset the timer.
 - Display elapsed time in hours, minutes, seconds, and milliseconds.
 - Responsive design for mobile and desktop users.
-- Lightweight and fast performance.
+
 
 ## Technologies Used
 
